@@ -5,7 +5,7 @@
     <title>Quiz</title>
     <link rel='stylesheet' type='text/css' href='/stylesheets/style.css' />
     <link rel='stylesheet' type='text/css' href='/stylesheets/wide.css' media='only screen and (min-width: 530px) and (min-device-width: 481px)' />
-    <link rel='stylesheet' type='text/css' href='/stylesheets/smartphone.css' media='only screen and (max-device-width: 480px)' />
+    <link rel='stylesheet' type='text/css' href='/stylesheets/smartphone.css' media='only screen and (max-width: 480px)' />
   </head>
   <body>
   <div id="page-wrap">
@@ -23,7 +23,7 @@
     </section>
 
     <footer>
-        <a href="http://es.wikipedia.org/wiki/Quiz">¿Qué es un Quiz?</a>
+        <a href="http://es.wikipedia.org/wiki/Quiz">¿Qué es un Quiz?</a>&nbsp;|&nbsp;<a href="https://github.com/andresrold/MOOC_QUIZ" target="_blank">Acceso al repositorio en GitHub de este proyecto</a>
     </footer>
   </div>
 </body>
