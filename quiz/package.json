@@ -3,7 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+<<<<<<< HEAD
     "start": "node ./bin/www"
+=======
+    "start": "nodejs ./bin/www"
+>>>>>>> a7fc5c5ea9060be1283ffb31950c195e1a639700
   },
   "engines": {
     "node": "0.10.x",
