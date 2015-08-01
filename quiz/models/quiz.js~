@@ -5,5 +5,5 @@ module.exports = function(sequelize, DataType) {
 		{
 			pregunta: DataType.STRING,
 			respuesta: DataType.STRING
-		}
+		});
 }
