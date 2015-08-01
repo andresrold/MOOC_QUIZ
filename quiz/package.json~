@@ -3,15 +3,16 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "nodejs ./bin/www"
-  },
 <<<<<<< HEAD
+    "start": "node ./bin/www"
+=======
+    "start": "nodejs ./bin/www"
+>>>>>>> a7fc5c5ea9060be1283ffb31950c195e1a639700
+  },
   "engines": {
     "node": "0.10.x",
     "npm": "1.4.x"
   },
-=======
->>>>>>> a7fc5c5ea9060be1283ffb31950c195e1a639700
   "dependencies": {
     "express": "~4.9.0",
     "body-parser": "~1.8.1",
